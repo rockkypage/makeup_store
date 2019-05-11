@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.flex,
+.row{
+	display: flex;
+}
+.box{
+	background: #e3e3e3;
+	height: 250px;
+}
+.col{
+	flex: 1;
+	padding: 10px;
+}
